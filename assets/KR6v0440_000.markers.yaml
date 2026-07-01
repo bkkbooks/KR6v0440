@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR6v0440/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6v0440_B_000-0501a, ed: B, 'n': 0501a, source_xml_id: B32.0178.0501a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0440_B_000-0501a01, ed: B, 'n': 0501a01}
+  - {type: line-break, offset: 0, content: '', id: KR6v0440_B_000-0501a02, ed: B, 'n': 0501a02}
+  body: []
+  back: []
+hash: sha256:74ad20e0730df304e38601c53da4211f666f6b8ba84f7d058f81e958eafa7806

@@ -1,0 +1,98 @@
+canonical_identifier: bkk:krp/KR6v0440/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0440/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 東大寺六宗未決義
+  identifiers:
+    krp: KR6v0440
+    cbeta: B32n0178
+    cbeta_old_id: B32n0178
+    authorityid: CA0006264
+    json_key: B0178
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0178.xml
+    old_id: B32n0178
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0440_000-B.yaml, hash: 'sha256:e792f6dfcadc376461949c562878dfb3fad1d196d6ccd97cfa6227e9d64b03b9'}
+  - {seq: 1, filename: KR6v0440_001-B.yaml, hash: 'sha256:06dee633edee6d0fd469e1686c6a2a6e3b9ff6ceb2e15e3a434d4c77ca78dc03'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0440_000-B.markers.yaml, hash: 'sha256:18a277f2e0d85bc8fe159c169319271af9a5cfad33e31a1a1c5073f7ec3209c5'}
+  - {seq: 1, role: markers, filename: assets/KR6v0440_001-B.markers.yaml, hash: 'sha256:99ef1e6800931d2765348bc366093cb9a0b1900c174c7d17f42d03e5202cc7af'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 3555
+  label: 100東大寺六宗未決義
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 華嚴宗未決文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-2
+    span:
+    - body
+    - 420
+    - 420
+  label: 法相大乘諸經論章疏中未決義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-3
+    span:
+    - body
+    - 1769
+    - 1769
+  label: 無相大乘宗欲求經論章疏并未決義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-4
+    span:
+    - body
+    - 3014
+    - 3014
+  label: 成實論未決義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-5
+    span:
+    - body
+    - 3307
+    - 3307
+  label: 俱舍宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-6
+    span:
+    - body
+    - 3418
+    - 3418
+  label: 後記
+  type: mulu
+  level: 1
+hash: sha256:6f94e4526d23d7fd5155178b9f92bc0d73c0be1c133b1c4106adff9cda47eabf

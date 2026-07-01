@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0440/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 東大寺六宗未決義
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0178.xml
+    old_id: B32n0178
+hash: sha256:e792f6dfcadc376461949c562878dfb3fad1d196d6ccd97cfa6227e9d64b03b9

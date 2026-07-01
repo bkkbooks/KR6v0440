@@ -1,0 +1,99 @@
+canonical_identifier: bkk:krp/KR6v0440/v1
+canonical_location: https://kanripo.org/bkk/KR6v0440/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 東大寺六宗未決義
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0178.xml
+    old_id: B32n0178
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0440_000.yaml, hash: 'sha256:e792f6dfcadc376461949c562878dfb3fad1d196d6ccd97cfa6227e9d64b03b9'}
+  - {seq: 1, filename: KR6v0440_001.yaml, hash: 'sha256:39dc8c7ae7f68ffa368dfc60455237f98d8571123a36cd1902a7dc3afce9c6a4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0440_001.markers.yaml, hash: 'sha256:3c7446387656db90bcfee7447aa2fe816d49059108b83c65f45e7dbc8481cba0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 3555
+  label: 100東大寺六宗未決義
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 華嚴宗未決文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-2
+    span:
+    - body
+    - 420
+    - 420
+  label: 法相大乘諸經論章疏中未決義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-3
+    span:
+    - body
+    - 1769
+    - 1769
+  label: 無相大乘宗欲求經論章疏并未決義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-4
+    span:
+    - body
+    - 3014
+    - 3014
+  label: 成實論未決義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-5
+    span:
+    - body
+    - 3307
+    - 3307
+  label: 俱舍宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0440_B_001-mulu-6
+    span:
+    - body
+    - 3418
+    - 3418
+  label: 後記
+  type: mulu
+  level: 1
+hash: sha256:0584e0f9abe4207d09cac5d09fed56239341152142ff9cc08e95b15eaf41c3e7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
