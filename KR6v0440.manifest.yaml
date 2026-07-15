@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0440/v1
 canonical_location: https://kanripo.org/bkk/KR6v0440/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 東大寺六宗未決義
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0440_000.yaml, hash: 'sha256:e792f6dfcadc376461949c562878dfb3fad1d196d6ccd97cfa6227e9d64b03b9'}
-  - {seq: 1, filename: KR6v0440_001.yaml, hash: 'sha256:06dee633edee6d0fd469e1686c6a2a6e3b9ff6ceb2e15e3a434d4c77ca78dc03'}
+  - {seq: 1, filename: KR6v0440_001.yaml, hash: 'sha256:70e76a1ec0009f3abafe590773c67331e6c0c3d8b146fff24d0337e5170969f2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0440_000.markers.yaml, hash: 'sha256:74ad20e0730df304e38601c53da4211f666f6b8ba84f7d058f81e958eafa7806'}
-  - {seq: 1, role: markers, filename: assets/KR6v0440_001.markers.yaml, hash: 'sha256:5566550c19be3259b024d5af152a4b42750ab00be3e824a9841576e3af7d06d0'}
+  - {seq: 1, role: markers, filename: assets/KR6v0440_001.markers.yaml, hash: 'sha256:8c7940e9512c52cdb04a73179e0553c60464c054b147b3a23f31a308276df015'}
 table_of_contents:
 - ref:
     seq: 1
@@ -94,4 +94,7 @@ table_of_contents:
   label: 後記
   type: mulu
   level: 1
-hash: sha256:1a102ae3325a6480231f37e4cb8a9b05e4a0007bb2ff672f3d5b4ca31ea503d5
+hash: sha256:52435c76aa83ecb769776dc00b87490301eaab46225db71c09c3cc0d6e9bf1eb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
